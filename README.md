@@ -32,7 +32,6 @@ My name is Milca, I’m 25 years old and I study Computer Science at UNIVALI in 
   </a>
 </div>
 
- <br/>
 
 <h3 align="left">
 🤖 Languages & Tools
@@ -127,7 +126,6 @@ My name is Milca, I’m 25 years old and I study Computer Science at UNIVALI in 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
-<br/>
 
 <h3 align="left">
 📊 Statistics
