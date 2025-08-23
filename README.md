@@ -14,16 +14,21 @@ My name is Milca, I’m 25 years old and I study Computer Science at UNIVALI in 
 <b>Contact with me<b>
 
 <div style="display:flex; gap:10px;">
-  <img 
-      alt="LinkedIn" 
-      title="LinkedIn Profile" 
-      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=005582&link=https://www.linkedin.com/in/milca-pereira-52ab85363/"
-  />
-  <img 
-      alt="Gmail" 
-      title="Gmail" 
-      src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=A33227&link=mailto:milca.pereira99@gmail.com"
-  />
+  <a href="https://www.linkedin.com/in/milca-pereira-52ab85363/" target="_blank">
+      <img 
+          alt="LinkedIn" 
+          title="LinkedIn Profile" 
+          src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=005582"
+      />
+  </a>
+
+  <a href="mailto:milca.pereira99@gmail.com" target="_blank">
+      <img 
+          alt="Gmail" 
+          title="Send Email" 
+          src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=A33227"
+      />
+  </a>
 </div>
 
  <br/>
