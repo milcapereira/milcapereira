@@ -10,8 +10,9 @@ Hi👋, I'm Milca
 My name is Milca, I’m 25 years old and I study Computer Science at UNIVALI in Itajaí. I’m currently exploring Full-Stack Web Development and Data Analysis with AI, which has been the main focus of my studies.
 </p>
 
-<p align="left">
-<b>Contact with me<b>
+<h3 align="left">
+📞 Contact with me
+</h3>
 
 <div style="display:flex; gap:10px;">
   <a href="https://www.linkedin.com/in/milca-pereira-52ab85363/" target="_blank">
