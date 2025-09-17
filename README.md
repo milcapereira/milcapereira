@@ -7,7 +7,7 @@ Hi👋, I'm Milca
 </h3>
 
 <p align="justify">
-My name is Milca, I’m 25 years old and I study Computer Science at UNIVALI in Itajaí. I’m currently exploring Full-Stack Web Development and Data Analysis with AI, which has been the main focus of my studies.
+My name is Milca, I’m 26 years old and I study Computer Science at UNIVALI in Itajaí. I’m currently exploring Full-Stack Web Development and Data Analysis with AI, which has been the main focus of my studies.
 </p>
 
 <h3 align="left">
