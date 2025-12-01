@@ -1,9 +1,9 @@
 <h1 align="center">
-  Olá👋, me chamo Milca
+  Desenvolvimento, Dados & Automação
 </h1>
 
 <h3 align="left">
-  Desenvolvimento, Dados & Automação
+  Olá 👋, me chamo Milca.
 </h3>
 
 <p align="justify">
