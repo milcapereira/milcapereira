@@ -1,19 +1,19 @@
 <h1 align="center">
-  Hi👋, I'm Milca
+  Olá👋, me chamo Milca
 </h1>
 
 <h3 align="left">
-  Exploring Full Stack Development & Data Analysis
+  Desenvolvimento, Dados & Automação
 </h3>
 
 <p align="justify">
-  My name is Milca, I’m 26 years old and I study Computer Science at UNIVALI in Itajaí. 
-  I’m currently exploring Full-Stack Web Development and Data Analysis with AI, which has 
-  been the main focus of my studies.
+  Sou estudante de Ciência da Computação.
+  Atualmente estou desenvolvendo minhas habilidades em Análise de Dados e Automações, explorando também boas práticas de desenvolvimento.
+  Aqui compartilho meus estudos e projetos enquanto evoluo na área.
 </p>
 
 <h3 align="left">
-📞 Contact with me
+📞 Contato
 </h3>
 
 <div style="display:flex; gap:10px;">
@@ -35,7 +35,7 @@
 </div>
 
 <h3 align="left">
-🤖 Languages & Tools
+🤖 Linguagens e Ferramentas
 </h3>
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
