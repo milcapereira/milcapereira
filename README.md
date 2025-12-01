@@ -68,13 +68,13 @@
     alt="GitHub Stats"
     height="200"
     style="padding-right: 20px;"
-    src="https://github-readme-stats-owdixu736-milcapereiras-projects.vercel.app/api?username=milcapereira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"
+    src="https://github-readme-stats-mauve-tau-43.vercel.app/api?username=milcapereira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1"
   />
 
   <img 
     align="left"
     alt="Top Langs"
     height="200"
-    src="https://github-readme-stats-owdixu736-milcapereiras-projects.vercel.app/api/top-langs/?username=milcapereira&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9&locale=en"
+    src="https://github-readme-stats-mauve-tau-43.vercel.app/api/top-langs/?username=milcapereira&theme=tokyonight&layout=compact&langs_count=9&cache_seconds=1"
   />
 </p>
