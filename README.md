@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi👋, I'm Milca
+  Hi👋, I'm Milca
 </h1>
 
 <h3 align="left">
@@ -7,7 +7,9 @@ Hi👋, I'm Milca
 </h3>
 
 <p align="justify">
-My name is Milca, I’m 26 years old and I study Computer Science at UNIVALI in Itajaí. I’m currently exploring Full-Stack Web Development and Data Analysis with AI, which has been the main focus of my studies.
+  My name is Milca, I’m 26 years old and I study Computer Science at UNIVALI in Itajaí. 
+  I’m currently exploring Full-Stack Web Development and Data Analysis with AI, which has 
+  been the main focus of my studies.
 </p>
 
 <h3 align="left">
@@ -32,100 +34,29 @@ My name is Milca, I’m 26 years old and I study Computer Science at UNIVALI in 
   </a>
 </div>
 
-
 <h3 align="left">
 🤖 Languages & Tools
 </h3>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Flask" 
-    title="Flask"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" alt="Flask" title="Flask" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"/>
+<img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 
-<br/>
-<br/>
+<br/><br/><br/>
 
 <h3 align="left">
 🔍 Languages & Tools - Already used
 </h3>
 
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
-<img 
-    align="left" 
-    alt=".NET" 
-    title=".NET"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" 
-/>
-<img 
-    align="center" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+<img align="left" alt="C++" title="C++" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+<img align="left" alt=".NET" title=".NET" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"/>
+<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 
+<br/><br/><br/>
 
 <h3 align="left">
 📊 Statistics
@@ -133,17 +64,17 @@ My name is Milca, I’m 26 years old and I study Computer Science at UNIVALI in 
 
 <p>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=milcapereira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 20px;"
+    src="https://github-readme-stats-owdixu736-milcapereiras-projects.vercel.app/api?username=milcapereira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=milcapereira&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9&locale=en" 
+  <img 
+    align="left"
+    alt="Top Langs"
+    height="200"
+    src="https://github-readme-stats-owdixu736-milcapereiras-projects.vercel.app/api/top-langs/?username=milcapereira&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9&locale=en"
   />
 </p>
