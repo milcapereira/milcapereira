@@ -49,7 +49,7 @@
 <br/><br/><br/>
 
 <h3 align="left">
-🔍 Languages & Tools - Already used
+🔍 Languages & Tools – Already used
 </h3>
 
 <img align="left" alt="C++" title="C++" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
@@ -68,13 +68,13 @@
     alt="GitHub Stats"
     height="200"
     style="padding-right: 20px;"
-    src="https://github-readme-stats-mauve-tau-43.vercel.app/api?username=milcapereira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1"
+    src="https://github-readme-stats-kmexlaapf-milcapereiras-projects.vercel.app/api?username=milcapereira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
 
   <img 
     align="left"
     alt="Top Langs"
     height="200"
-    src="https://github-readme-stats-mauve-tau-43.vercel.app/api/top-langs/?username=milcapereira&theme=tokyonight&layout=compact&langs_count=9&cache_seconds=1"
+    src="https://github-readme-stats-kmexlaapf-milcapereiras-projects.vercel.app/api/top-langs/?username=milcapereira&theme=tokyonight&layout=compact&langs_count=9"
   />
 </p>
