@@ -56,25 +56,4 @@
 <img align="left" alt=".NET" title=".NET" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"/>
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 
-<br/><br/><br/>
 
-<h3 align="left">
-📊 Statistics
-</h3>
-
-<p>
-  <img 
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 20px;"
-    src="https://gh-stats-seven.vercel.app/api?username=milcapereira&show_icons=true&theme=tokyonight"
-  />
-
-  <img 
-    align="left"
-    alt="Top Langs"
-    height="200"
-    src="https://gh-stats-seven.vercel.app/api/top-langs/?username=milcapereira&layout=compact&theme=tokyonight"
-  />
-</p>
