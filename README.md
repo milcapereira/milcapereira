@@ -8,7 +8,7 @@
 
 <p align="justify">
   Sou estudante de Ciência da Computação.
-  Atualmente estou desenvolvendo minhas habilidades em Análise de Dados e Automações, explorando também boas práticas de desenvolvimento.
+  Atualmente estou desenvolvendo minhas habilidades em Dados e Automações, explorando também boas práticas de desenvolvimento.
   Aqui compartilho meus estudos e projetos enquanto evoluo na área.
 </p>
 
